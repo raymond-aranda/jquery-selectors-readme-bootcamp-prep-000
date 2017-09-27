@@ -18,14 +18,3 @@ function divSelector() {
 function firstListItem() {
   return $('ul li:first-child');
 }
-/*
-
-
-$('div img:last-child')
-
-$('#baby-ninja')
-
-$('div')
-
-$('ul li:first-child')
-*/
