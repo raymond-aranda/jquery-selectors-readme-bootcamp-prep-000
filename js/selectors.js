@@ -5,4 +5,6 @@ $('img:last-of-type')
 
 $('.baby-ninja')
 
+$('div')
+
 $('li:first-of-type')
