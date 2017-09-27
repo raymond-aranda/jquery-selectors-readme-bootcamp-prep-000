@@ -1,6 +1,8 @@
 // declare your functions here...
 $('p')
 
-$('img:last-child')
+$('img:last-of-type')
 
 $('.baby-ninja')
+
+$('li:first-of-type')
