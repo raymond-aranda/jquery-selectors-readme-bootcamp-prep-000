@@ -14,6 +14,10 @@ function ninjaBabySelector() {
 function divSelector() {
   return $('div');
 }
+
+function firstListItem() {
+  return $('ul li:first-child');
+}
 /*
 
 
