@@ -3,7 +3,7 @@ $('p')
 
 $('img:last-of-type')
 
-$('.baby-ninja')
+$('#baby-ninja')
 
 $('div')
 
